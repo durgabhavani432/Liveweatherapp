@@ -1,9 +1,7 @@
 <div align="center">
 
   ![GitHub repo size](https://img.shields.io/github/repo-size/durgabhavani432/Weather-State)
-  ![GitHub stars](https://img.shields.io/github/stars/durgabhavani432/Weather-State?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/durgabhavani432/Weather-State?style=social)
-
+  
   
   <img src="./icons/favicon.svg" />
   <h2 align="center">Weather State</h2>
